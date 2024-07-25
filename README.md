@@ -1,7 +1,10 @@
 # 所需工具
 - git
 - PyCharm
--  [下载源](https://mirrors.bfsu.edu.cn/pypi/web/simple/)
+-  下载源
+-  ```shell
+   https://mirrors.bfsu.edu.cn/pypi/web/simple/
+   ```
 - 请勿在markdown直接运行命令，须在根目录执行，他的markdown不在根目录，直接运行会报错
 
 # 所需命令
